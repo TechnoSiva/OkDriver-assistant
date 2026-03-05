@@ -91,8 +91,8 @@ voice-assistant/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Technosiva/voice-assistant.git
-cd voice-assistant
+git clone https://github.com/TechnoSiva/OkDriver-assistant.git
+cd OkDriver-assistant
 ```
 
 ### 2. Install Dependencies
