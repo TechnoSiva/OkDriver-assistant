@@ -123,7 +123,7 @@ Generate a **Porcupine Access Key** and download a **Windows wake-word `.ppn` fi
 Example wake word:
 
 ```
-Hey Driver
+OK Driver
 ```
 
 ---
